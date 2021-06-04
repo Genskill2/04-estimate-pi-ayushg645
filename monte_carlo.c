@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <math.h>
 
-float mc pi(int itr) 
+float mc_pi(int itr) 
  { int in=0, tot=0;
 
  float x,y,pi, dist;
